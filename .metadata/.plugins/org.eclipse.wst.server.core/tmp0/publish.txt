@@ -1,0 +1,5 @@
+#Tomcat publish data
+#Sat Apr 11 15:49:44 PDT 2020
+org.eclipse.jst.j2ee.server\:onlineShop=/Users/zfq/Downloads/apache-tomcat-9.0.31/wtpwebapps/onlineShop
+org.eclipse.jst.j2ee.server\:jupiter=/Users/zfq/Downloads/apache-tomcat-9.0.31/wtpwebapps/jupiter
+org.eclipse.jst.j2ee.server\:/binary\:/Users/zfq/.m2/repository/org/springframework/spring-web/5.2.3.RELEASE/spring-web-5.2.3.RELEASE.jar=/Users/zfq/Downloads/apache-tomcat-9.0.31/wtpwebapps/onlineShop/WEB-INF/lib/spring-web-5.2.3.RELEASE.jar
